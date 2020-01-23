@@ -192,4 +192,11 @@ out there, but generally speaking YouCompleteMe has been the plugin of choice.
 
 ---
 
+For those interested in knowing more when it comes to how I containerize my
+development environment:
+- Dev.to article: https://dev.to/aghost7/developing-from-containers-42fp
+- Repository hosting my dockerfiles: https://github.com/AGhost-7/docker-dev
+
+---
+
 Questions?
