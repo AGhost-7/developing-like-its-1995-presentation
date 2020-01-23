@@ -1,0 +1,15 @@
+{
+  "name": "developing-like-its-1995-presentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AGhost-7 <jonathan.boudreau.92@gmail.com>",
+  "license": "CC0-1.0",
+	"scripts": {
+		"serve": "marp --server src",
+		"open": "xdg-open http://${DOCKED_VM_IP:-localhost}:8080"
+	},
+  "dependencies": {
+    "@marp-team/marp-cli": "^0.17.0",
+    "@marp-team/marp-core": "^1.0.1"
+  }
+}

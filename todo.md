@@ -1,0 +1,29 @@
+- bash
+	- jobs
+	- readline
+- tmux:
+	- some hotkeys
+	- how to use on the server
+- neo(vim):
+	- tutor & docs
+	- composition
+	- modes
+	- buffers
+	- windows
+	- ex commands
+	- plugins
+	- file tree
+	- fuzzy search
+	- git
+	- language integration
+	- registers
+	- macros
+	- folds
+	- file tree
+	- fuzzy search
+	- git
+	- language integration
+	- registers
+	- macros
+	- folds
+	- marks
