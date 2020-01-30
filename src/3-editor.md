@@ -152,7 +152,7 @@ cabbrev t NERDTree
 
 Fairly similar to what most editors offer:
 ```vim
-Plug 'ctrlp/ctrlp.vim'
+Plug 'ctrlpvim/ctrlp.vim'
 ```
 
 ---
